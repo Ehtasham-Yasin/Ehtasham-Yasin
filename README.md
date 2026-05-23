@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Ehtasham%20Yasin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20DevSecOps%20Learner&descAlignY=60)
+assets/banner.png
 <div align="center">
 
 # 🚀 Ehtasham Yasin

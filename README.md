@@ -1,3 +1,8 @@
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ehtasham-Yasin/Ehtasham-Yasin/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 <p align="center">
   <img src="./banner.png" alt="Banner" width="100%" />
 </p><div align="center">

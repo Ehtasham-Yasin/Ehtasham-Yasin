@@ -1,57 +1,50 @@
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ehtasham-Yasin/Ehtasham-Yasin/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-<p align="center">
+
   <img src="./banner.png" alt="Banner" width="100%" />
-</p><div align="center">
 
-# 🚀 Ehtasham Yasin
+</p>
 
-### UI/UX Designer • Full Stack Developer • Cloud & DevSecOps Enthusiast
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Learning+DevSecOps+%26+Cloud;Exploring+AI+Engineering;Open+Source+Learner;Consistency+Over+Perfection" />
+# Ehtasham Yasin
+### Full-Stack Developer • AI & Automation Engineer • DevOps Enthusiast
+# About Me
+I'm a passionate developer focused on building scalable web applications and continuously improving my engineering skills.
+Currently exploring:
+* Full Stack Development
+* DevSecOps & Cloud Technologies
+* Security Best Practices
+* AI & Automation Systems
+I enjoy learning modern technologies, building practical projects, and improving every single day through consistency and hands-on development.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Production-Ready+Web+Applications;Exploring+AI+%26+Automation;Learning+DevOps+%26+Cloud;Contributing+to+Open+Source;Learning+by+Building+Real+Systems" />
 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=Ehtasham-Yasin&style=for-the-badge&color=blueviolet)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ehtasham-Yasin)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehtasham.yasin.dev@gmail.com)
 
 </div>
 
 ---
 
-# 👨🏻‍💻 About Me
+# Current Focus
 
-I'm a passionate developer focused on building scalable web applications and continuously improving my engineering skills.
-
-Currently exploring:
-
-* 💻 Full Stack Development
-* ☁️ DevSecOps & Cloud Technologies
-* 🔒 Security Best Practices
-* 🤖 AI & Automation Systems
-
-I enjoy learning modern technologies, building practical projects, and improving every single day through consistency and hands-on development.
+* Building Full Stack Applications
+* Learning DevSecOps & Cloud Infrastructure
+* Exploring Security & Deployment Workflows
+* Preparing for AI Engineering & Automation
+* Contributing to Open Source & Personal Projects
 
 ---
 
-# ⚔️ Current Focus
+#  Tech Stack
 
-* 🚀 Building Full Stack Applications
-* 📚 Learning DevSecOps & Cloud Infrastructure
-* 🔐 Exploring Security & Deployment Workflows
-* 🤖 Preparing for AI Engineering & Automation
-* 🌱 Contributing to Open Source & Personal Projects
-
----
-
-# 🛠️ Tech Stack
-
-## 🌐 Frontend
+##  Frontend
 
 <div align="center">
 
@@ -103,7 +96,7 @@ I enjoy learning modern technologies, building practical projects, and improving
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <div align="center">
 
@@ -113,7 +106,7 @@ I enjoy learning modern technologies, building practical projects, and improving
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 
 <div align="center">
 
@@ -149,7 +142,7 @@ Containerization, deployment workflows, and cloud infrastructure practice projec
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 

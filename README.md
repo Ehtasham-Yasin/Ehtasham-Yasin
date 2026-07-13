@@ -21,40 +21,28 @@ I enjoy learning modern technologies, building practical projects, and improving
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Production-Ready+Web+Applications;Exploring+AI+%26+Automation;Learning+DevOps+%26+Cloud;Contributing+to+Open+Source;Learning+by+Building+Real+Systems" />
 
 <br/>
-
 ![](https://komarev.com/ghpvc/?username=Ehtasham-Yasin&style=for-the-badge&color=blueviolet)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ehtasham-Yasin)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehtasham.yasin.dev@gmail.com)
-
 </div>
-
 ---
-
 # Current Focus
-
 * Building Full Stack Applications
 * Learning DevSecOps & Cloud Infrastructure
 * Exploring Security & Deployment Workflows
 * Preparing for AI Engineering & Automation
 * Contributing to Open Source & Personal Projects
-
 ---
-
 #  Tech Stack
-
 ##  Frontend
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
-
 </div>
 
 ---
 
-## 🔧 Backend
+## Backend
 
 <div align="center">
 
@@ -64,46 +52,33 @@ I enjoy learning modern technologies, building practical projects, and improving
 
 ---
 
-## 🗄️ Database
+## Database
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&perline=5" />
 
 </div>
-
 ---
-
-## ☁️ DevOps & Tools
-
+## DevOps & Tools
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux&perline=6" />
-
 </div>
-
 ---
-
-# 📈 GitHub Analytics
-
+# GitHub Analytics
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ehtasham-Yasin&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehtasham-Yasin&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
-
-# Contribution Streak
-
+# GitHub contribution and Activity
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ehtasham-Yasin&theme=tokyonight&hide_border=true" />
-
+img src="https://streak-stats.demolab.com?user=Ehtasham-Yasin&theme=dark&hide_border=false" alt="Ehtasham Yasin's GitHub Streak Stats" />
+<br/>
+### 📈Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehtasham-Yasin&theme=tokyo-night&hide_border=true&area=true" alt="Ehtasham Yasin's Contribution Graph" />
 </div>
-
 ---
 
 # GitHub Achievements
@@ -116,46 +91,30 @@ I enjoy learning modern technologies, building practical projects, and improving
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔹 Full Stack Web Applications
-
+# Featured Projects
+### Full Stack Web Applications
 Modern responsive applications built with scalable frontend and backend architecture.
-
-### 🔹 Authentication & API Systems
-
+### Authentication & API Systems
 Secure authentication systems and REST API integrations.
-
-### 🔹 DevOps Learning Projects
-
+### DevOps Learning Projects
 Containerization, deployment workflows, and cloud infrastructure practice projects.
-
 ---
-
-# 📚 Currently Learning
-
+#Currently Learning
 * Kubernetes
 * CI/CD Pipelines
 * Cloud Architecture
 * DevSecOps Practices
 * AI Engineering Fundamentals
-
 ---
-
 # Let's Connect
-
 <div align="center">
-
 <a href="https://github.com/Ehtasham-Yasin">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
-
 <a href="mailto:ehtasham.yasin.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 </div>
-
 ---
 
 <div align="center">

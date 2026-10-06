@@ -126,6 +126,14 @@ View my [GitHub achievements](https://github.com/Ehtasham-Yasin?tab=achievements
 
 ## Contributing to
 
+- [metasequoiaime/msime-windows](https://github.com/metasequoiaime/msime-windows)
+- [Noveum/gravity](https://github.com/Noveum/gravity)
+- [sorvien/admingen](https://github.com/sorvien/admingen)
+- [kestra-io/kestra](https://github.com/kestra-io/kestra)
+- [livepeer/go-livepeer](https://github.com/livepeer/go-livepeer)
+- [SWIFTSIM/swiftsimio](https://github.com/SWIFTSIM/swiftsimio)
+- [wavefnd/Wave](https://github.com/wavefnd/Wave)
+- [siemens/simatic-s7-webserver-api](https://github.com/siemens/simatic-s7-webserver-api) — [test patch under review](https://github.com/siemens/simatic-s7-webserver-api/issues/171#issuecomment-6017887088)
 - [kubeflow/pipelines-components](https://github.com/kubeflow/pipelines-components)
 - [WordPress/presence-api](https://github.com/WordPress/presence-api)
 - [python/mypy](https://github.com/python/mypy)
